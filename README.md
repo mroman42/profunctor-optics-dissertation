@@ -1,2 +1,2 @@
-# optics-mfocs
-Profunctor optics and traversals, Dissertation submitted for the MSc Mathematics and Foundations of Computer Science, University of Oxford.
+# Profunctor optics and traversals
+A dissertation submitted for the degree of MSc in Mathematics and Foundations of Computer Science at the University of Oxford.
